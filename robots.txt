@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ml1wr2.g88.uk/sitemap.xml
